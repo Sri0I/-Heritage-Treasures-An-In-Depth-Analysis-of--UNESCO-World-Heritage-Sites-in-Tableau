@@ -116,7 +116,7 @@ The project was developed as part of the **Infosys Springboard Virtual Internshi
 
 ## 👩‍💻 Author
 
-**Kota Sneha**
+**Kunapareddy Srilakshmi**
 - 🎓 Infosys Springboard Virtual Internship 6.0
 - 📧 [GitHub Profile](https://github.com/kotasneha)
 
